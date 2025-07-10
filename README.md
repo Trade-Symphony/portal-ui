@@ -85,12 +85,9 @@ We welcome contributions to improve Trade Symphony's frontend experience. Please
 
 ## Deployment
 
-<<<<<<< HEAD
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 4f72150 (Initial commit from Create Next App)
-=======
 This application is deployed using [OpenNext](https://opennext.js.org/cloudflare) for Cloudflare Pages/Workers, which provides optimal performance and edge computing capabilities for our AI trading platform.
 
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 ### Deployment Configuration
 
 - **Platform**: Cloudflare Pages/Workers
