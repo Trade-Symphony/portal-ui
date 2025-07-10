@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# portal-ui
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-=======
 # Trade Symphony Frontend
 
 The frontend application for **Trade Symphony** - an AI-powered trading platform that provides intelligent, automated trading assistance. Built with [Next.js](https://nextjs.org) and modern web technologies.
