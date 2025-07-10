@@ -133,6 +133,7 @@ dist
 # dependencies
 /node_modules
 /.pnp
+<<<<<<< HEAD
 >>>>>>> 4f72150 (Initial commit from Create Next App)
 .pnp.*
 .yarn/*
@@ -148,6 +149,10 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 =======
 !.yarn/versions
+=======
+.pnp.js
+.yarn/install-state.gz
+>>>>>>> 046c846 (chore: add cloudflare conifg)
 
 # testing
 /coverage
@@ -167,10 +172,9 @@ vite.config.ts.timestamp-*
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# local env files
+.env*.local
 
 # vercel
 .vercel
@@ -178,4 +182,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 >>>>>>> 4f72150 (Initial commit from Create Next App)
+=======
+
+# OpenNext
+/.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+>>>>>>> 046c846 (chore: add cloudflare conifg)
