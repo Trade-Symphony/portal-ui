@@ -5,7 +5,6 @@ The frontend application for **Trade Symphony** - an AI-powered trading platform
 ## About Trade Symphony
 
 Trade Symphony is an advanced AI software platform that performs AI-assisted intelligent trades on your behalf. Our sophisticated algorithms analyze market trends, execute strategic trades, and help optimize your trading portfolio with minimal manual intervention.
->>>>>>> 8039167 (docs: update README with project overview, installation instructions, and deployment details)
 
 ## Getting Started
 
@@ -88,6 +87,7 @@ We welcome contributions to improve Trade Symphony's frontend experience. Please
 This application is deployed using [OpenNext](https://opennext.js.org/cloudflare) for Cloudflare Pages/Workers, which provides optimal performance and edge computing capabilities for our AI trading platform.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
 ### Deployment Configuration
 
 - **Platform**: Cloudflare Pages/Workers
@@ -104,4 +104,3 @@ yarn deploy
 ```
 
 For more details on OpenNext Cloudflare deployment, visit the [OpenNext Cloudflare documentation](https://opennext.js.org/cloudflare).
->>>>>>> 8039167 (docs: update README with project overview, installation instructions, and deployment details)
